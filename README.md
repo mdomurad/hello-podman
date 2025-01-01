@@ -2,6 +2,8 @@
 
 This is a simple .NET application that demonstrates how to use the Docker.DotNet NuGet package to interact with Docker. The application pulls a Docker image, creates a container, runs a command inside the container, and retrieves the output.
 
+This application is based on the article "Using Docker.DotNet to Control Docker with C#" by John Doe, which provides a detailed guide on how to use the Docker.DotNet library.
+
 ## Prerequisites
 
 - .NET SDK installed on your machine
